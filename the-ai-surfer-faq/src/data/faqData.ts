@@ -206,7 +206,7 @@ export const faqData: FAQSection[] = [
     items: [
       {
         question: "How do I change my billing information?",
-        answer: "In your Convertwave account, go to Settings > Company Billing and then navigate to the Payments tab on the right. And edit Billing Information.\n\n![Billing Dashboard](/billing-dashboard.png)"
+        answer: "In your Convertwave account, go to Settings > Company Billing and then navigate to the Payments tab on the right. And edit Billing Information.\n\n![Billing Dashboard](/Billing Dashboard.png)"
       },
       {
         question: "How do I cancel my membership?",
