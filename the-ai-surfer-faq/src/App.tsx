@@ -63,6 +63,7 @@ export default function App() {
           <div className="mt-12">
             <Routes>
               <Route path="/faq/:sectionId" element={<FAQPage />} />
+              <Route path="/:sectionId" element={<FAQPage />} />
               <Route path="/" element={<FAQPage />} />
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
