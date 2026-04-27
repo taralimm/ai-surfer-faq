@@ -40,7 +40,7 @@ export const faqData: FAQSection[] = [
       },
       {
         question: "What if I can’t attend live calls?",
-        answer: "No problem. All sessions are recorded and uploaded to:\n* Classroom → Live Replays (last 2 weeks — Monday, Wednesday and Thursday calls)\n* Classroom → Live Recordings (older sessions — Monday, Wednesday and Thursday calls)\n* Classroom → Specialty Workshops (all community-led workshops)"
+        answer: "No problem. All sessions are recorded and uploaded to:\n* Classroom → Last 30 Days of Replays (icluding Specialty Workshop replays)\n* Classroom → Past Replays (older sessions — Monday, Wednesday and Thursday calls)"
       },
       {
         question: "Can I suggest topics or discussions for Wednesday Networking Calls?",
