@@ -145,10 +145,6 @@ export const faqData: FAQSection[] = [
         answer: "Go to **Settings** in the left-hand menu, then select Company Billing. From there, you can update your payment method and view your transaction history."
       },
       {
-        question: "What if my payment fails?",
-        answer: "The system will retry your payment for up to 7 days. If the payment is not completed within that time, your account may be canceled and deleted, along with all data and customizations.\n\nIf this happens, please reach out to support@theaisurfer.com for assistance."
-      },
-      {
         question: "Can I benefit even if I’m not technical?",
         answer: "Yes. The software is designed for people who aren’t tech‑savvy; everything is broken into simple steps. You can book one‑hour one‑on‑one Convertwave onboarding call through this link: [https://www.convertwave.ai/onboarding](https://www.convertwave.ai/onboarding)."
       },
@@ -215,6 +211,10 @@ export const faqData: FAQSection[] = [
       {
         question: "How do I manage my billing/subscriptions?",
         answer: "In Convertwave, navigate to Settings > Company Billing."
+      },
+      {
+        question: "What if my payment fails?",
+        answer: "The system will retry your payment for up to 7 days. If the payment is not completed within that time, your account may be canceled and deleted, along with all data and customizations.\n\nIf this happens, please reach out to support@theaisurfer.com for assistance."
       },
       {
         question: "How do I get a copy of my invoice?",
