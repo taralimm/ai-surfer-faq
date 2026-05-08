@@ -138,7 +138,7 @@ export const faqData: FAQSection[] = [
       },
       {
         question: "Is there an onboarding call?",
-        answer: "Yes. You can schedule your onboarding [HERE](https://www.convertwave.ai/onboarding)"
+        answer: "We no longer offer 1:1 onboarding calls, but you’ll find step-by-step tutorials inside the platform to help you get set up. You’ll also have access to 24/7 chat support (pink question mark) if you need help along the way."
       },
       {
         question: "How do I manage my subscription or update my payment details?",
